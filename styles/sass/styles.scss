@@ -15,3 +15,13 @@
 // h3: 54px;
 // h4: 34px;
 // h5: 14px;
+
+@use "./partials/setup";
+@use "./partials/topography";
+@use "./partials/variables";
+@use "./partials/baseStyles";
+@use "./partials/sections";
+@use "./partials/mediaQueries";
+@use "./partials/footer";
+@use "./partials/nav";
+@use "./partials/header";
